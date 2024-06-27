@@ -21,9 +21,9 @@ repository               : "jiangyijane/jiangyijane.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo_2024_2_cut.JPG"
+  avatar           : "profile.JPG"
   name             : "Jane Yi Jiang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
