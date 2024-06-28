@@ -22,11 +22,11 @@ repository               : "jiangyijane/jiangyijane.github.io"
 author:
   # Biographic information
   avatar           : #"profile_2024_2_cut.png"
-  name             : "Jane"
+  #name             : "Jane"
   pronouns         : "she/her/hers"  
-  cv              : "http://academicpages.github.io/files/paper1.pdf"
+  #bio              : ""
   #location         : "Earth"
-  employer         : "Fisher College of Business, The Ohio State University"
+  #employer         : "Fisher College of Business, The Ohio State University"
   #uri              : ""
   email            : "jiang.3186@osu.edu" 
 
