@@ -19,7 +19,7 @@ Research
 
 Upcoming Talks
 ------
-- INFORMS RMP Section Conference, Los Angeles CA, Jul. 2024
+- [INFORMS RMP Section Conference](https://www.anderson.ucla.edu/faculty-research/decisions-operations-technology-management/2024-informs-revenue-management-and-pricing-section-conference), Los Angeles CA, Jul. 2024
   - Impact of Price Strategy on Returns, July 15th (Monday) 2:45pm - 3:05pm @ Optimist B
 
 Teaching
