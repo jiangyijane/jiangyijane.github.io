@@ -12,7 +12,7 @@ I am an Assistant Professor of Operations and Business Analytics at the [Max M. 
 Research
 ------
 1.	An Empirical Study of Blockchain-Driven Transparency in a Consumer Marketplace, with Ken Moon and Wedad Elmaghraby, [[SSRN]]()
-   Reject and Resubmit at Management Science
+   Reject and Resubmit at <i>Management Science</i>
 3.	
 
 Talks
