@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : #"profile_2024_2_cut.png"
   name             : "Jane"
-  pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "she/her/hers"  
+  cv              : "http://academicpages.github.io/files/paper1.pdf"
   #location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : 'http://academicpages.github.io/files/paper1.pdf'
+  employer         : "Fisher College of Business, The Ohio State University"
+  #uri              : ""
   email            : "jiang.3186@osu.edu" 
 
   # Academic websites
