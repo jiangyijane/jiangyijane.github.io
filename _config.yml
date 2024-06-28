@@ -21,7 +21,7 @@ repository               : "jiangyijane/jiangyijane.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile_2024_2_cut.png"
+  avatar           : "profile_2024_2_cut.png"
   #name             : "Jane"
   pronouns         : "she/her/hers"  
   #bio              : ""
