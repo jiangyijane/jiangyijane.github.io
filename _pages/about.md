@@ -24,5 +24,10 @@ Upcoming Talks
 
 Teaching
 ------
-1.	Instructor, Introduction to Operations Management (undergraduate core). Fisher College of Business, The Ohio State University, Autumn 2024.
-2.	Instructor, Business Statistics (undergraduate core). Smith School of Business, University of Maryland, Summer 2022 and 2023.
+-	Instructor, Introduction to Operations Management (undergraduate core). Fisher College of Business, The Ohio State University, Autumn 2024.
+-	Instructor, Business Statistics (undergraduate core). Smith School of Business, University of Maryland, Summer 2022 and 2023.
+
+Honors & Awards
+------
+- Allan N. Nash Outstanding Doctoral Student Award, UMD, 2024
+- Finalist, 2023 TIMES Best Working Paper Competition, 2023
