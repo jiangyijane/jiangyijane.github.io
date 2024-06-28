@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   #location         : "Earth"
   employer         : "Red Brick University"
-  uri              : # URL
+  uri              : 'http://academicpages.github.io/files/paper1.pdf'
   email            : "jiang.3186@osu.edu" 
 
   # Academic websites
