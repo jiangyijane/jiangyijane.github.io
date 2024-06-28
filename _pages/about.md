@@ -13,11 +13,15 @@ Research
 ------
 1.	An Empirical Study of Blockchain-Driven Transparency in a Consumer Marketplace, with Ken Moon and Wedad Elmaghraby, [[SSRN]]()
 
-Reject and Resubmit at <i>Management Science</i>
+    Reject and Resubmit at <i>Management Science</i>
 
 2. Impact of Price Strategy on Returns: A Price Transparency and Valuation Uncertainty Story, with Wedad Elmaghraby and Ozge Sahin
 
-In preparation for submission
+    In preparation for submission
+
+3. From Complexity to Clarity: Leveraging Explainable NLP to Enhance Contract Transparency, with Jiannan Xu and Wedad Elmaghraby
+4. The Side Effects of Quality Signaling, with Farzad Fathi
+
 
 Talks
 ------
