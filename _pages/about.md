@@ -9,7 +9,7 @@ redirect_from:
 
 I am an Assistant Professor of Operations and Business Analytics at the [Max M. Fisher College of Business](https://fisher.osu.edu), [The Ohio State University](https://www.osu.edu). My research centers on marketplaces and information dissemination within them. By employing causal inference, structural models, and machine learning tools, I address novel business challenges and offer practical insights to firms. 
 
-I received my Ph.D. degree in Operations Management & Management Science from the [Robert H. Smith School of Business](https://www.rhsmith.umd.edu), [University of Maryland](https://umd.edu). My CV is [here](http://jiangyijane.github.io/files/cv_June2024.pdf).
+I received my Ph.D. degree in Operations Management & Management Science from the [Robert H. Smith School of Business](https://www.rhsmith.umd.edu), [University of Maryland](https://umd.edu). You may find my CV [here](http://jiangyijane.github.io/files/cv_June2024.pdf).
 
 
 Research
