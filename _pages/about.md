@@ -11,25 +11,22 @@ I am an Assistant Professor of Operations and Business Analytics at the [Max M. 
 
 Research
 ------
-1.	An Empirical Study of Blockchain-Driven Transparency in a Consumer Marketplace, with Ken Moon and Wedad Elmaghraby, [[SSRN]]()
-
-    Reject and Resubmit at <i>Management Science</i>
-
-2. Impact of Price Strategy on Returns: A Price Transparency and Valuation Uncertainty Story, with Wedad Elmaghraby and Ozge Sahin
-
-    In preparation for submission
-
-3. From Complexity to Clarity: Leveraging Explainable NLP to Enhance Contract Transparency, with Jiannan Xu and Wedad Elmaghraby
-4. The Side Effects of Quality Signaling, with Farzad Fathi
+1.	An Empirical Study of Blockchain-Driven Transparency in a Consumer Marketplace, [[SSRN]](), with Ken Moon and Wedad Elmaghraby. Reject and Resubmit at <i>Management Science</i>.
+2. Impact of Price Strategy on Returns: A Price Transparency and Valuation Uncertainty Story, with Wedad Elmaghraby and Ozge Sahin. In preparation for submission.
+3. From Complexity to Clarity: Leveraging Explainable NLP to Enhance Contract Transparency, with Jiannan Xu and Wedad Elmaghraby.
+4. The Side Effects of Quality Signaling, with Farzad Fathi.
 
 
-Talks
+Upcoming Talks
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- INFORMS RMP Section Conference, Los Angeles CA, Jul. 2024
+  - Impact of Price Strategy on Returns, July 15th (Monday) 2:45pm - 3:05pm @ Optimist B
 
 Teaching
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+1.	Instructor, Introduction to Operations Management (undergraduate core). Fisher College of Business, The Ohio State University, Autumn 2024.
+3.	Instructor, Business Statistics (undergraduate core). Smith School of Business, University of Maryland, Summer 2022 and 2023.
+
 
 **Markdown generator**
 
