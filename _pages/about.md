@@ -12,8 +12,11 @@ I am an Assistant Professor of Operations and Business Analytics at the [Max M. 
 Research
 ------
 1.	An Empirical Study of Blockchain-Driven Transparency in a Consumer Marketplace, with Ken Moon and Wedad Elmaghraby, [[SSRN]]()
-   Reject and Resubmit at <i>Management Science</i>
-3.	
+
+Reject and Resubmit at <i>Management Science</i>
+2. Impact of Price Strategy on Returns: A Price Transparency and Valuation Uncertainty Story, with Wedad Elmaghraby and Ozge Sahin
+
+In preparation for submission
 
 Talks
 ------
