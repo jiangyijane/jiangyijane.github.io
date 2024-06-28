@@ -22,7 +22,7 @@ repository               : "jiangyijane/jiangyijane.github.io"
 author:
   # Biographic information
   avatar           : #"profile_2024_2_cut.png"
-  name             : #"Jane"
+  name             : "Jane"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   #location         : "Earth"
