@@ -15,7 +15,7 @@ I received my Ph.D. degree in Operations Management & Management Science from th
 Research
 ------
 1.	"An Empirical Study of Blockchain-Driven Transparency in a Consumer Marketplace," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560414), with Ken Moon and Wedad Elmaghraby. Reject and Resubmit at <i>Management Science</i>.
-2. "Impact of Price Strategy on Returns: A Price Transparency and Valuation Uncertainty Story," with Wedad Elmaghraby and Ozge Sahin. In preparation for submission.
+2. "Impact of Price Strategy on Returns: A Price Transparency and Valuation Uncertainty Story," [[SSRN]] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893185), with Wedad Elmaghraby and Ozge Sahin. In preparation for submission.
 3. "From Complexity to Clarity: Leveraging Explainable NLP to Enhance Contract Transparency," with Jiannan Xu and Wedad Elmaghraby.
 4. "The Side Effects of Quality Signaling," with Farzad Fathi.
 
