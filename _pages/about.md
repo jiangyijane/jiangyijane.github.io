@@ -22,8 +22,9 @@ Research
 
 Upcoming Talks
 ------
-- [INFORMS RMP Section Conference](https://www.anderson.ucla.edu/faculty-research/decisions-operations-technology-management/2024-informs-revenue-management-and-pricing-section-conference), Los Angeles CA, Jul. 2024
-  - Impact of Price Strategy on Returns, July 15th (Monday) 2:45pm - 3:05pm @ Optimist B
+- [INFORMS ANNUAL MEETING 2024](https://meetings.informs.org/wordpress/seattle2024/?_gl=1%2A1o24ut%2A_gcl_au%2AMTk5MjU4NDQzNy4xNzI4NDgzMzM0), Seatle WA, Oct. 2024
+  - An Empirical Study of Blockchain-Driven Transparency in a Consumer Marketplace, Oct. 20th (Sun) 10:45am - noon @ Summit-445
+  - Impact of Price Strategy on Returns, Oct. 20th (Sun) 12:45pm - 2:00pm @ Summit-336
 
 Teaching
 ------
