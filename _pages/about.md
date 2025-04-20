@@ -15,16 +15,19 @@ I received my Ph.D. degree in Operations Management & Management Science from th
 Research
 ------
 1.	"An Empirical Study of Blockchain-Driven Transparency in a Consumer Marketplace," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560414), with Ken Moon and Wedad Elmaghraby. Reject and Resubmit at <i>Management Science</i>.
-2. "Impact of Price Strategy on Returns: A Price Transparency and Valuation Uncertainty Story," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893185), with Wedad Elmaghraby and Ozge Sahin. In preparation for submission.
-3. "From Complexity to Clarity: Leveraging Explainable NLP to Enhance Contract Transparency," with Jiannan Xu and Wedad Elmaghraby.
-4. "The Side Effects of Quality Signaling," with Farzad Fathi.
+2. "Impact of Price Strategy on Returns: A Price Transparency and Valuation Uncertainty Story," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893185), with Wedad Elmaghraby and Ozge Sahin. Reject and Resubmit at <i>MSOM</i>.
+3. "AI-Infused Nudges for Supply Chain Decision Making," with Jiannan Xu and Wedad Elmaghraby.
+4. "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights," with Jiannan Xu and Gujie Li.
+5. "The Offline Basis of Rural E-Commerce Success," with Qiyao Zhou and Ziyang Chen.
+6. "The Side Effects of Quality Signaling," with Farzad Fathi.
 
 
 Upcoming Talks
 ------
-- [INFORMS ANNUAL MEETING 2024](https://meetings.informs.org/wordpress/seattle2024/?_gl=1%2A1o24ut%2A_gcl_au%2AMTk5MjU4NDQzNy4xNzI4NDgzMzM0), Seatle WA, Oct. 2024
-  - An Empirical Study of Blockchain-Driven Transparency in a Consumer Marketplace, Oct. 20th (Sun) 10:45am - noon @ Summit-445
-  - Impact of Price Strategy on Returns, Oct. 20th (Sun) 12:45pm - 2:00pm @ Summit-336
+- [Industry Studies Association 2025 Annual Conference](https://www.industrystudies.org/isa-2025-conference-information-2), Boston MA, June 4-6, 2025
+  - The Offline Basis of Rural E-Commerce Success
+- [INFORMS MSOM Conference 2025](https://www.london.edu/faculty-and-research/management-science-and-operations/msom-conference-2025), London, June 27-29, 2025
+  - Sustainable Operations SIG Day: An Empirical Study of Blockchain-Driven Transparency in a Consumer Marketplace
 
 Teaching
 ------
