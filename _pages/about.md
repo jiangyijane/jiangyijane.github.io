@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Operations and Business Analytics at the [Max M. Fisher College of Business](https://fisher.osu.edu), [The Ohio State University](https://www.osu.edu). My research centers on marketplaces and information dissemination within them. By employing causal inference, structural models, and machine learning tools, I address novel business challenges and offer practical insights to firms. 
+I am an Assistant Professor of Operations and Business Analytics at the [Max M. Fisher College of Business](https://fisher.osu.edu), [The Ohio State University](https://www.osu.edu). My research centers on marketplaces and the dissemination of information within them. Currently, I focus on the role of generative artificial intelligence on platforms, examining how it shapes information flow and influences decision-making. I use causal inference, structural modeling, and machine learning to address emerging business challenges and generate actionable insights for firms. 
 
 I received my Ph.D. degree in Operations Management & Management Science from the [Robert H. Smith School of Business](https://www.rhsmith.umd.edu), [University of Maryland](https://umd.edu). You may find my CV [here](http://jiangyijane.github.io/files/cv_June2024.pdf).
 
@@ -24,9 +24,7 @@ Research
 
 Upcoming Talks
 ------
-- [Industry Studies Association 2025 Annual Conference](https://www.industrystudies.org/isa-2025-conference-information-2), Boston MA, June 4-6, 2025
-  - The Offline Basis of Rural E-Commerce Success
-- [INFORMS MSOM Conference 2025](https://www.london.edu/faculty-and-research/management-science-and-operations/msom-conference-2025), London, June 27-29, 2025
+- [INFORMS MSOM Conference 2025](https://www.london.edu/faculty-and-research/management-science-and-operations/msom-conference-2025), London, June 27th, 2025
   - Sustainable Operations SIG Day: An Empirical Study of Blockchain-Driven Transparency in a Consumer Marketplace
 
 Teaching
