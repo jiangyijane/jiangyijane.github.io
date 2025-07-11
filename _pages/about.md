@@ -15,17 +15,26 @@ I received my Ph.D. degree in Operations Management & Management Science from th
 Research
 ------
 1.	"An Empirical Study of Blockchain-Driven Transparency in a Consumer Marketplace," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560414), with Ken Moon and Wedad Elmaghraby. Reject and Resubmit at <i>Management Science</i>.
-2. "Impact of Price Strategy on Returns: A Price Transparency and Valuation Uncertainty Story," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893185), with Wedad Elmaghraby and Ozge Sahin. Reject and Resubmit at <i>MSOM</i>.
-3. "AI-Infused Nudges for Supply Chain Decision Making," with Jiannan Xu and Wedad Elmaghraby.
-4. "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights," with Jiannan Xu and Gujie Li.
-5. "The Offline Basis of Rural E-Commerce Success," with Qiyao Zhou and Ziyang Chen.
-6. "The Side Effects of Quality Signaling," with Farzad Fathi.
+  - Finalist, 2023 TIMES Best Working Paper Competition
+  - Presented at MSOM SIG 2025, RMP 2025, Wharton Empirical OM Workshop 2023, INFORMS 2023, POM 2023
+3. "Impact of Price Strategy on Returns: A Price Transparency and Valuation Uncertainty Story," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893185), with Wedad Elmaghraby and Ozge Sahin. Reject and Resubmit at <i>MSOM</i>.
+  - Presented at RMP 2024, INFORMS 2024, POM 2024
+4. "AI-Infused Nudges for Supply Chain Decision Making," with Jiannan Xu and Wedad Elmaghraby.
+  - Supported by the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School of University of Maryland.
+5. "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights," with Jiannan Xu and Gujie Li.
+  - Accepted at 3rd Annual Business & Generative AI Conference (AI@Wharton) 2025.
+  - Accepted at 2025 Markets & Society Conference.
+6. "The Offline Basis of Rural E-Commerce Success," with Qiyao Zhou and Ziyang Chen.
+  - Presented at the Industry Studies Association (ISA) 2025 Annual Conference
+7. "The Side Effects of Quality Signaling," with Farzad Fathi.
 
 
 Upcoming Talks
 ------
-- [INFORMS MSOM Conference 2025](https://www.london.edu/faculty-and-research/management-science-and-operations/msom-conference-2025), London, June 27th, 2025
-  - Sustainable Operations SIG Day: An Empirical Study of Blockchain-Driven Transparency in a Consumer Marketplace
+- [2025 INFORMS Revenue Management and Pricing (RMP) Section Conference](https://business.columbia.edu/2025-informs-conference)
+  - An Empirical Study of Blockchain-Driven Transparency in a Consumer Marketplace
+  - Time: 3:20 - 4:40pm, July 14th, 2025
+  - Location: Geffen 540, Columbia Business School, NYC
 
 Teaching
 ------
