@@ -22,19 +22,11 @@ Research
 4. "AI-Infused Nudges for Supply Chain Decision Making," with Jiannan Xu and Wedad Elmaghraby.
   - Supported by the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School of University of Maryland.
 5. "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights," with Jiannan Xu and Gujie Li.
-  - Accepted at 3rd Annual Business & Generative AI Conference (AI@Wharton) 2025.
-  - Accepted at 2025 Markets & Society Conference.
+  - Accepted at AI@Wharton 2025, AIES 2025, EAAMO’25, Markets & Society Conference 2025.
 6. "The Offline Basis of Rural E-Commerce Success," with Qiyao Zhou and Ziyang Chen.
   - Presented at the Industry Studies Association (ISA) 2025 Annual Conference
 7. "The Side Effects of Quality Signaling," with Farzad Fathi.
 
-
-Upcoming Talks
-------
-- [2025 INFORMS Revenue Management and Pricing (RMP) Section Conference](https://business.columbia.edu/2025-informs-conference)
-  - An Empirical Study of Blockchain-Driven Transparency in a Consumer Marketplace
-  - Time: 3:20 - 4:40pm, July 14th, 2025
-  - Location: Geffen 540, Columbia Business School, NYC
 
 Teaching
 ------
