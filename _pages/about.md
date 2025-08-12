@@ -25,7 +25,6 @@ Research
   - Accepted at AI@Wharton 2025, AIES 2025, EAAMO’25, Markets & Society Conference 2025.
 6. "The Offline Basis of Rural E-Commerce Success," with Qiyao Zhou and Ziyang Chen.
   - Presented at the Industry Studies Association (ISA) 2025 Annual Conference
-7. "The Side Effects of Quality Signaling," with Farzad Fathi.
 
 
 Teaching
