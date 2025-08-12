@@ -17,13 +17,13 @@ Research
 1.	"An Empirical Study of Blockchain-Driven Transparency in a Consumer Marketplace," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560414), with Ken Moon and Wedad Elmaghraby. Reject and Resubmit at <i>Management Science</i>.
   - Finalist, 2023 TIMES Best Working Paper Competition
   - Presented at MSOM SIG 2025, RMP 2025, Wharton Empirical OM Workshop 2023, INFORMS 2023, POM 2023
-3. "Impact of Price Strategy on Returns: A Price Transparency and Valuation Uncertainty Story," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893185), with Wedad Elmaghraby and Ozge Sahin. Reject and Resubmit at <i>MSOM</i>.
+2. "Impact of Price Strategy on Returns: A Price Transparency and Valuation Uncertainty Story," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893185), with Wedad Elmaghraby and Ozge Sahin. Reject and Resubmit at <i>MSOM</i>.
   - Presented at RMP 2024, INFORMS 2024, POM 2024
-4. "AI-Infused Nudges for Supply Chain Decision Making," with Jiannan Xu and Wedad Elmaghraby.
+3. "AI-Infused Nudges for Supply Chain Decision Making," with Jiannan Xu and Wedad Elmaghraby.
   - Supported by the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School of University of Maryland.
-5. "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights," with Jiannan Xu and Gujie Li.
+4. "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights," with Jiannan Xu and Gujie Li.
   - Accepted at AI@Wharton 2025, AIES 2025, EAAMO’25, Markets & Society Conference 2025.
-6. "The Offline Basis of Rural E-Commerce Success," with Qiyao Zhou and Ziyang Chen.
+5. "The Offline Basis of Rural E-Commerce Success," with Qiyao Zhou and Ziyang Chen.
   - Presented at the Industry Studies Association (ISA) 2025 Annual Conference
 
 
