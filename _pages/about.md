@@ -23,6 +23,7 @@ Research
   - Supported by the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School of University of Maryland.
 4. "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5417394), with Jiannan Xu and Gujie Li.
   - Media coverage: [[The Register]](https://www.theregister.com/2025/09/03/ai_hiring_biased/).
+  - Best Student Paper Runner-up, Conference on Information Systems and Technology (CIST) 2025
   - Accepted at AI@Wharton 2025, AIES 2025, EAAMO’25, Fisher AI Conference 2025, AI in Business Conference 2025, Markets & Society Conference 2025.
 5. "The Offline Basis of Rural E-Commerce Success," with Qiyao Zhou and Ziyang Chen.
   - Presented at the Industry Studies Association (ISA) 2025 Annual Conference
