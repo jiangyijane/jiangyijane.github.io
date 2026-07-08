@@ -29,9 +29,10 @@ Research
   - Accepted for presentation at the CCER Summer Institute 2026
 6. "Escaping the Nash Trap: Structural Estimation and Alignment of Strategic Reasoning in Large Language Models," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6993719), with Jiannan Xu, Yongkang Duan, and Jiding Zhang.
   - Media coverage: [[The New York Times]](https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html?unlocked_article_code=1.t1A.E8FZ.drfKT24fjjJ0&smid=url-share)
+  - Accepted to *the Third Conference on Language Modeling (COLM) 2026*
   - Accepted for presentation at the AI and Economics (AIE) Summer Conference 2026
 7. "Prompt Injection in Automated Résumé Screening with Large Language Models: Single and Multi-Injection Settings," ACL 2026 Findings, [[paper]](https://aclanthology.org/2026.findings-acl.142.pdf) [[code]](https://github.com/preetb1199/Prompt_Injection_ACL26/), with Preet Baxi, Jiannan Xu,and Stefanus Jasin.
-  - In *Findings of the Association for Computational Linguistics: ACL 2026*
+  - In *Findings of the Association for Computational Linguistics (ACL) 2026*
 
 Teaching
 ------
