@@ -27,7 +27,7 @@ Research
   - Accepted at AI@Wharton 2025, AIES 2025, EAAMO’25, Fisher AI Conference 2025, AI in Business Conference 2025, Markets & Society Conference 2025
 5. "When Incentives Shape Information: Strategic Disclosure in Judicial Auctions," with Qiyao Zhou and Ginger Zhe Jin.
   - Accepted for presentation at the CCER Summer Institute 2026
-6. "Escaping the Nash Trap: Structural Estimation and Alignment of Strategic Reasoning in Large Language Models," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6993719), with Jiannan Xu, Yongkang Duan, and Jiding Zhang.
+6. "Escaping the Nash Trap: Structural Estimation and Alignment of Strategic Reasoning in Large Language Models," COLM 2026, [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6993719), with Jiannan Xu, Yongkang Duan, and Jiding Zhang.
   - Media coverage: [[The New York Times]](https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html?unlocked_article_code=1.t1A.E8FZ.drfKT24fjjJ0&smid=url-share)
   - Accepted to *the Third Conference on Language Modeling (COLM) 2026*
   - Accepted for presentation at the AI and Economics (AIE) Summer Conference 2026
