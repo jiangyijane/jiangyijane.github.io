@@ -19,8 +19,7 @@ Research
   - Presented at MSOM SIG 2025, RMP 2025, Wharton Empirical OM Workshop 2023, INFORMS 2023, POM 2023
 2. "Impact of Price Strategy on Returns: A Price Transparency and Valuation Uncertainty Story," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893185), with Wedad Elmaghraby and Ozge Sahin.
   - Presented at RMP 2024, INFORMS 2024, POM 2024
-3. "AI-Infused Nudges for Supply Chain Decision Making," with Jiannan Xu and Wedad Elmaghraby.
-  - Supported by the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School of University of Maryland
+3. "The AI Supply Chain: Overproduction in Model Marketplaces," with Jiannan Xu, and Jiding Zhang.
 4. "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5417394), with Jiannan Xu and Gujie Li.
   - Media coverage: The New York Times ([Article 1](https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html?unlocked_article_code=1.t1A.E8FZ.drfKT24fjjJ0&smid=url-share), [Article 2](https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html?unlocked_article_code=1.6lA.RJyb.7SL-L-F90_oG&smid=url-share)), [The Register](https://www.theregister.com/2025/09/03/ai_hiring_biased/), [El Confidencial](https://www.elconfidencial.com/tecnologia/2026-05-15/cv-empleo-ia-inteligencia-artificial-llm-orbio-sesgos_4350666/), [Business Insider](https://www.businessinsider.com/nvidia-exec-ai-likes-to-use-ai-it-impacts-resumes-2026-5), [Financial Times](https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c?syn-25a6b1a6=1)
   - Best Student Paper Runner-Up, Conference on Information Systems and Technology (CIST) 2025
@@ -31,7 +30,9 @@ Research
   - Media coverage: [The New York Times](https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html?unlocked_article_code=1.t1A.E8FZ.drfKT24fjjJ0&smid=url-share)
   - Accepted to *the Third Conference on Language Modeling (COLM) 2026*
   - Accepted for presentation at the AI and Economics (AIE) Summer Conference 2026
-7. "Prompt Injection in Automated Résumé Screening with Large Language Models: Single and Multi-Injection Settings," ACL 2026 Findings, [[paper]](https://aclanthology.org/2026.findings-acl.142.pdf) [[code]](https://github.com/preetb1199/Prompt_Injection_ACL26/), with Preet Baxi, Jiannan Xu,and Stefanus Jasin.
+7. "AI-Infused Nudges for Supply Chain Decision Making," with Jiannan Xu and Wedad Elmaghraby.
+  - Supported by the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School of University of Maryland
+8. "Prompt Injection in Automated Résumé Screening with Large Language Models: Single and Multi-Injection Settings," ACL 2026 Findings, [[paper]](https://aclanthology.org/2026.findings-acl.142.pdf) [[code]](https://github.com/preetb1199/Prompt_Injection_ACL26/), with Preet Baxi, Jiannan Xu,and Stefanus Jasin.
   - In *Findings of the Association for Computational Linguistics (ACL) 2026*
 
 Teaching
