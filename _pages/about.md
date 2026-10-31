@@ -16,7 +16,7 @@ Research
 ------
 1.	"An Empirical Study of Blockchain-Driven Transparency in a Consumer Marketplace," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560414), with Ken Moon and Wedad Elmaghraby.
   - Finalist, 2023 TIMES Best Working Paper Competition
-  - Accepted for presentation at MSOM SIG 2025 and Wharton Empirical OM Workshop 2023
+  - Accepted at MSOM SIG 2025 and Wharton Empirical OM Workshop 2023
 2. "Impact of Price Strategy on Returns: A Price Transparency and Valuation Uncertainty Story," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893185), with Wedad Elmaghraby and Ozge Sahin.
 3. "The AI Supply Chain: Overproduction in Model Marketplaces," with Jiannan Xu, Jiding Zhang, and Wedad Elmaghraby.
 4. "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5417394), with Jiannan Xu and Gujie Li.
@@ -24,11 +24,11 @@ Research
   - Best Student Paper Runner-Up, Conference on Information Systems and Technology (CIST) 2025
   - Accepted at AI@Wharton 2025, AIES 2025, EAAMO’25
 5. "When Speed Becomes a Target: Deadlines, Disclosure, and Outcomes in Judicial Foreclosure Auctions," with Qiyao Zhou and Ginger Zhe Jin.
-  - Accepted for presentation at the CCER Summer Institute 2026
+  - Accepted at the CCER Summer Institute 2026
 6. "Escaping the Nash Trap: Structural Estimation and Alignment of Strategic Reasoning in Large Language Models," COLM 2026, [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6993719) [[code]](https://github.com/jiannan-xu/colm2026_nash_trap), with Jiannan Xu, Yongkang Duan, and Jiding Zhang.
   - Media coverage: [The New York Times](https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html?unlocked_article_code=1.t1A.E8FZ.drfKT24fjjJ0&smid=url-share)
   - Accepted to *the Third Conference on Language Modeling (COLM) 2026*
-  - Accepted for presentation at the AI and Economics (AIE) Summer Conference 2026
+  - Accepted at the AI and Economics (AIE) Summer Conference 2026
 7. "AI-Infused Nudges for Supply Chain Decision Making," with Jiannan Xu and Wedad Elmaghraby.
   - Supported by the Faculty-Student Research Award (FSRA, $15,000) from the Graduate School of University of Maryland
 8. "Prompt Injection in Automated Résumé Screening with Large Language Models: Single and Multi-Injection Settings," ACL 2026 Findings, [[paper]](https://aclanthology.org/2026.findings-acl.142.pdf) [[code]](https://github.com/preetb1199/Prompt_Injection_ACL26/), with Preet Baxi, Jiannan Xu,and Stefanus Jasin.
