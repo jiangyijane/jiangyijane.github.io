@@ -16,14 +16,13 @@ Research
 ------
 1.	"An Empirical Study of Blockchain-Driven Transparency in a Consumer Marketplace," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4560414), with Ken Moon and Wedad Elmaghraby.
   - Finalist, 2023 TIMES Best Working Paper Competition
-  - Presented at MSOM SIG 2025, RMP 2025, Wharton Empirical OM Workshop 2023, INFORMS 2023, POM 2023
+  - Accepted for presentation at MSOM SIG 2025 and Wharton Empirical OM Workshop 2023
 2. "Impact of Price Strategy on Returns: A Price Transparency and Valuation Uncertainty Story," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893185), with Wedad Elmaghraby and Ozge Sahin.
-  - Presented at RMP 2024, INFORMS 2024, POM 2024
 3. "The AI Supply Chain: Overproduction in Model Marketplaces," with Jiannan Xu, Jiding Zhang, and Wedad Elmaghraby.
 4. "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5417394), with Jiannan Xu and Gujie Li.
   - Media coverage: The New York Times ([Article 1](https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html?unlocked_article_code=1.t1A.E8FZ.drfKT24fjjJ0&smid=url-share), [Article 2](https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html?unlocked_article_code=1.6lA.RJyb.7SL-L-F90_oG&smid=url-share)), [The Register](https://www.theregister.com/2025/09/03/ai_hiring_biased/), [El Confidencial](https://www.elconfidencial.com/tecnologia/2026-05-15/cv-empleo-ia-inteligencia-artificial-llm-orbio-sesgos_4350666/), [Business Insider](https://www.businessinsider.com/nvidia-exec-ai-likes-to-use-ai-it-impacts-resumes-2026-5), [Financial Times](https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c?syn-25a6b1a6=1)
   - Best Student Paper Runner-Up, Conference on Information Systems and Technology (CIST) 2025
-  - Accepted at AI@Wharton 2025, AIES 2025, EAAMO’25, Fisher AI Conference 2025, AI in Business Conference 2025, Markets & Society Conference 2025
+  - Accepted at AI@Wharton 2025, AIES 2025, EAAMO’25
 5. "When Speed Becomes a Target: Deadlines, Disclosure, and Outcomes in Judicial Foreclosure Auctions," with Qiyao Zhou and Ginger Zhe Jin.
   - Accepted for presentation at the CCER Summer Institute 2026
 6. "Escaping the Nash Trap: Structural Estimation and Alignment of Strategic Reasoning in Large Language Models," COLM 2026, [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6993719) [[code]](https://github.com/jiannan-xu/colm2026_nash_trap), with Jiannan Xu, Yongkang Duan, and Jiding Zhang.
