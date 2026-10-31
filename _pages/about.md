@@ -19,7 +19,7 @@ Research
   - Presented at MSOM SIG 2025, RMP 2025, Wharton Empirical OM Workshop 2023, INFORMS 2023, POM 2023
 2. "Impact of Price Strategy on Returns: A Price Transparency and Valuation Uncertainty Story," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893185), with Wedad Elmaghraby and Ozge Sahin.
   - Presented at RMP 2024, INFORMS 2024, POM 2024
-3. "The AI Supply Chain: Overproduction in Model Marketplaces," with Jiannan Xu, and Jiding Zhang.
+3. "The AI Supply Chain: Overproduction in Model Marketplaces," with Jiannan Xu, Jiding Zhang, and Wedad Elmaghraby.
 4. "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights," [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5417394), with Jiannan Xu and Gujie Li.
   - Media coverage: The New York Times ([Article 1](https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html?unlocked_article_code=1.t1A.E8FZ.drfKT24fjjJ0&smid=url-share), [Article 2](https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html?unlocked_article_code=1.6lA.RJyb.7SL-L-F90_oG&smid=url-share)), [The Register](https://www.theregister.com/2025/09/03/ai_hiring_biased/), [El Confidencial](https://www.elconfidencial.com/tecnologia/2026-05-15/cv-empleo-ia-inteligencia-artificial-llm-orbio-sesgos_4350666/), [Business Insider](https://www.businessinsider.com/nvidia-exec-ai-likes-to-use-ai-it-impacts-resumes-2026-5), [Financial Times](https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c?syn-25a6b1a6=1)
   - Best Student Paper Runner-Up, Conference on Information Systems and Technology (CIST) 2025
